@@ -7,7 +7,7 @@
 
 ## Ex:
 - ?configUrl=https://your_api_spec/file.json
--json file
+- json file
 ```
 {
     "url": "https://jumpy-floor.surge.sh/test.yaml",
